@@ -1,0 +1,39 @@
+
+> civicai-website@1.0.0 dev
+> next dev
+
+   ▲ Next.js 15.5.15
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.56.1:3000
+
+ ✓ Starting...
+ ✓ Ready in 2.5s
+ ○ Compiling /submit ...
+ ✓ Compiled / in 26.7s (2369 modules)
+ GET / 200 in 16261ms
+ GET /submit 200 in 29043ms
+ GET /track 200 in 25280ms
+ GET /submit 200 in 1340ms
+ GET /track 200 in 97ms
+ ○ Compiling /track/[id] ...
+ ✓ Compiled /track/[id] in 1753ms (2371 modules)
+ GET /track/CIV-2026-00347 200 in 2959ms
+ ○ Compiling /citizen/dashboard ...
+ ✓ Compiled /citizen/dashboard in 745ms (2380 modules)
+ GET /citizen/dashboard 200 in 1083ms
+ ○ Compiling /api/ai/suggest ...
+ ✓ Compiled /api/ai/suggest in 1815ms (2409 modules)
+ POST /api/ai/suggest 200 in 1781ms
+ GET /officer/board 200 in 2485ms
+ ○ Compiling /admin/overview ...
+ ✓ Compiled /admin/overview in 2s (2420 modules)
+ GET /admin/overview 200 in 2774ms
+ GET / 200 in 410ms
+ GET / 200 in 101ms
+ GET /submit 200 in 185ms
+ POST /api/ai/suggest 200 in 68ms
+ GET /track 200 in 59ms
+ GET /citizen/dashboard 200 in 46ms
+ GET /officer/board 200 in 52ms
+ GET /admin/overview 200 in 28ms
+ GET / 200 in 156ms
